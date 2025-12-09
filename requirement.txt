@@ -1,4 +1,0 @@
-%%writefile requirements.txt
-streamlit
-torch
-transformers
